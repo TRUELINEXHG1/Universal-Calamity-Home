@@ -1,9 +1,9 @@
 # Universal-Calamity-Home
 
-## ** [WIP] Universal Calamity Navel **
+## **[WIP] Universal Calamity Navel**
 
 
 
 
 
-## ** [WIP] Universal Calamity Manga **
+## **[WIP] Universal Calamity Manga**
